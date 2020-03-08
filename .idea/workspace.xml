@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52460051-2524-42b9-bf99-d89974690fe8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mscloud@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mscloud@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mscloud@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mscloud: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="cloud2020" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YjZzraN9U2FMykpSzvmdTjv4J1" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.deng.mscloud.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA_workspace\cloud2020\cloud-consumerzk-order80\src\main\resources" />
+      <recent name="E:\IDEA_workspace\cloud2020\cloud-provider-payment8002\src\main\java" />
+      <recent name="E:\IDEA_workspace\cloud2020\cloud-provider-payment8002\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.OrderZKMain80">
+    <configuration name="EurekaMain7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-eureka-server7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.deng.mscloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.deng.mscloud.EurekaMain7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaMain7002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-eureka-server7002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.deng.mscloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.deng.mscloud.EurekaMain7002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.deng.mscloud.OrderMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderZKMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-consumerzk-order80" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.deng.mscloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.deng.mscloud.OrderZKMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-payment8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.deng.mscloud.PaymentMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-provider-payment8002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.deng.mscloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.deng.mscloud.PaymentMain8002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8004" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-provider-payment8004" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.deng.mscloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.deng.mscloud.PaymentMain8004" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.OrderZKMain80" />
+        <item itemvalue="Spring Boot.PaymentMain8004" />
+        <item itemvalue="Spring Boot.PaymentMain8002" />
+        <item itemvalue="Spring Boot.EurekaMain7002" />
+        <item itemvalue="Spring Boot.EurekaMain7001" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../hello-akka" value="PREVIEW" />
+        <entry key="E:/akka/hello-akka" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.23127392" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52460051-2524-42b9-bf99-d89974690fe8" name="Default Changelist" comment="" />
+      <created>1583458229538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583458229538</updated>
+      <workItem from="1583458235309" duration="8961000" />
+      <workItem from="1583560519675" duration="8297000" />
+      <workItem from="1583630458281" duration="7535000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="516" y="0" width="905" height="1030" key="#PaymentMain8001" timestamp="1583467487085">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="516" y="0" width="905" height="1030" key="#PaymentMain8001/0.0.1920.1030@0.0.1920.1030" timestamp="1583467487085" />
+    <state x="451" y="91" key="#Project_Structure" timestamp="1583564187736">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="451" y="91" key="#Project_Structure/0.0.1920.1030@0.0.1920.1030" timestamp="1583564187736" />
+    <state x="503" y="19" width="1162" height="1011" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583467706539">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="503" y="19" width="1162" height="1011" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1030@0.0.1920.1030" timestamp="1583467706539" />
+    <state x="1228" y="223" key="#com.intellij.ide.util.MemberChooser" timestamp="1583464931199">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="1228" y="223" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1030@0.0.1920.1030" timestamp="1583464931199" />
+    <state x="747" y="265" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583467675110">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="747" y="265" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1030@0.0.1920.1030" timestamp="1583467675110" />
+    <state x="488" y="130" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1583458265858">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="488" y="130" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1030@0.0.1920.1030" timestamp="1583458265858" />
+    <state x="997" y="211" key="FileChooserDialogImpl" timestamp="1583461378910">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="997" y="211" key="FileChooserDialogImpl/0.0.1920.1030@0.0.1920.1030" timestamp="1583461378910" />
+    <state width="1405" height="292" key="GridCell.Tab.0.bottom" timestamp="1583637808311">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="1405" height="292" key="GridCell.Tab.0.bottom/0.0.1920.1030@0.0.1920.1030" timestamp="1583637808311" />
+    <state width="1405" height="292" key="GridCell.Tab.0.center" timestamp="1583637808311">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="1405" height="292" key="GridCell.Tab.0.center/0.0.1920.1030@0.0.1920.1030" timestamp="1583637808311" />
+    <state width="1405" height="292" key="GridCell.Tab.0.left" timestamp="1583637808311">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="1405" height="292" key="GridCell.Tab.0.left/0.0.1920.1030@0.0.1920.1030" timestamp="1583637808311" />
+    <state width="1405" height="292" key="GridCell.Tab.0.right" timestamp="1583637808311">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="1405" height="292" key="GridCell.Tab.0.right/0.0.1920.1030@0.0.1920.1030" timestamp="1583637808311" />
+    <state width="1405" height="292" key="GridCell.Tab.1.bottom" timestamp="1583637808312">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="1405" height="292" key="GridCell.Tab.1.bottom/0.0.1920.1030@0.0.1920.1030" timestamp="1583637808312" />
+    <state width="1405" height="292" key="GridCell.Tab.1.center" timestamp="1583637808312">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="1405" height="292" key="GridCell.Tab.1.center/0.0.1920.1030@0.0.1920.1030" timestamp="1583637808312" />
+    <state width="1405" height="292" key="GridCell.Tab.1.left" timestamp="1583637808312">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="1405" height="292" key="GridCell.Tab.1.left/0.0.1920.1030@0.0.1920.1030" timestamp="1583637808312" />
+    <state width="1405" height="292" key="GridCell.Tab.1.right" timestamp="1583637808312">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="1405" height="292" key="GridCell.Tab.1.right/0.0.1920.1030@0.0.1920.1030" timestamp="1583637808312" />
+    <state x="622" y="0" key="SettingsEditor" timestamp="1583564134180">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="622" y="0" key="SettingsEditor/0.0.1920.1030@0.0.1920.1030" timestamp="1583564134180" />
+    <state x="863" y="204" width="1057" height="732" key="new project wizard" timestamp="1583638350286">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="863" y="204" width="1057" height="732" key="new project wizard/0.0.1920.1030@0.0.1920.1030" timestamp="1583638350286" />
+    <state x="1249" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1583465230043">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="1249" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1030@0.0.1920.1030" timestamp="1583465230043" />
+  </component>
+</project>
