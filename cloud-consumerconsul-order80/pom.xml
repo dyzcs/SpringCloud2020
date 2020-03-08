@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>cloud-providerconsul-payment8006</artifactId>
+    <artifactId>cloud-consumerconsul-order80</artifactId>
 
     <dependencies>
         <dependency>
