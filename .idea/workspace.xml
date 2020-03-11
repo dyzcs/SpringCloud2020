@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52460051-2524-42b9-bf99-d89974690fe8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/cloud-consumer-feign-order80.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/cloud-consumer-feign-order80.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/deng/mscloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/deng/mscloud/controller/PaymentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/deng/mscloud/controller/PaymentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/deng/mscloud/controller/PaymentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server7001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server7001/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +129,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.OrderFeignMain80">
+  <component name="RunManager" selected="Spring Boot.OrderMain80">
     <configuration name="EurekaMain7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="cloud-eureka-server7001" />
       <extension name="coverage">
@@ -153,19 +156,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrderConsulMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="cloud-consumerconsul-order80" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.deng.mscloud.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.deng.mscloud.OrderConsulMain80" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="OrderFeignMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="cloud-consumer-feign-order80" />
       <extension name="coverage">
@@ -182,6 +172,26 @@
     <configuration name="OrderMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-consumer-order80" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.deng.mscloud.OrderMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderZKMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumerzk-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.deng.mscloud.OrderZKMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentHystrixMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-provider-hystrix-payment8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.deng.mscloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.deng.mscloud.PaymentHystrixMain8001" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -222,11 +232,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.PaymentHystrixMain8001" />
+        <item itemvalue="Spring Boot.EurekaMain7001" />
+        <item itemvalue="Spring Boot.EurekaMain7002" />
         <item itemvalue="Spring Boot.OrderFeignMain80" />
         <item itemvalue="Spring Boot.PaymentMain8002" />
-        <item itemvalue="Spring Boot.EurekaMain7002" />
-        <item itemvalue="Spring Boot.EurekaMain7001" />
-        <item itemvalue="Spring Boot.OrderConsulMain80" />
       </list>
     </recent_temporary>
   </component>
@@ -242,17 +252,12 @@
     <option name="viewStates">
       <list>
         <serviceView>
-          <option name="contentProportion" value="0.2856" />
+          <option name="contentProportion" value="0.22143248" />
           <treeState>
             <expand>
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
@@ -284,7 +289,8 @@
       <workItem from="1583458235309" duration="8961000" />
       <workItem from="1583560519675" duration="8297000" />
       <workItem from="1583630458281" duration="16569000" />
-      <workItem from="1583726581998" duration="3257000" />
+      <workItem from="1583726581998" duration="7391000" />
+      <workItem from="1583908573472" duration="3031000" />
     </task>
     <servers />
   </component>
@@ -332,46 +338,46 @@
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
     <state x="997" y="211" key="FileChooserDialogImpl/0.0.1920.1030@0.0.1920.1030" timestamp="1583656282660" />
-    <state width="892" height="321" key="GridCell.Tab.0.bottom" timestamp="1583729881504">
+    <state width="1423" height="372" key="GridCell.Tab.0.bottom" timestamp="1583918166424">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="892" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1030@0.0.1920.1030" timestamp="1583729881504" />
-    <state width="892" height="321" key="GridCell.Tab.0.center" timestamp="1583729881503">
+    <state width="1423" height="372" key="GridCell.Tab.0.bottom/0.0.1920.1030@0.0.1920.1030" timestamp="1583918166424" />
+    <state width="1423" height="372" key="GridCell.Tab.0.center" timestamp="1583918166424">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="892" height="321" key="GridCell.Tab.0.center/0.0.1920.1030@0.0.1920.1030" timestamp="1583729881503" />
-    <state width="892" height="321" key="GridCell.Tab.0.left" timestamp="1583729881503">
+    <state width="1423" height="372" key="GridCell.Tab.0.center/0.0.1920.1030@0.0.1920.1030" timestamp="1583918166424" />
+    <state width="1423" height="372" key="GridCell.Tab.0.left" timestamp="1583918166424">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="892" height="321" key="GridCell.Tab.0.left/0.0.1920.1030@0.0.1920.1030" timestamp="1583729881503" />
-    <state width="892" height="321" key="GridCell.Tab.0.right" timestamp="1583729881504">
+    <state width="1423" height="372" key="GridCell.Tab.0.left/0.0.1920.1030@0.0.1920.1030" timestamp="1583918166424" />
+    <state width="1423" height="372" key="GridCell.Tab.0.right" timestamp="1583918166424">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="892" height="321" key="GridCell.Tab.0.right/0.0.1920.1030@0.0.1920.1030" timestamp="1583729881504" />
-    <state width="892" height="321" key="GridCell.Tab.1.bottom" timestamp="1583729881505">
+    <state width="1423" height="372" key="GridCell.Tab.0.right/0.0.1920.1030@0.0.1920.1030" timestamp="1583918166424" />
+    <state width="1423" height="372" key="GridCell.Tab.1.bottom" timestamp="1583918166424">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="892" height="321" key="GridCell.Tab.1.bottom/0.0.1920.1030@0.0.1920.1030" timestamp="1583729881505" />
-    <state width="892" height="321" key="GridCell.Tab.1.center" timestamp="1583729881505">
+    <state width="1423" height="372" key="GridCell.Tab.1.bottom/0.0.1920.1030@0.0.1920.1030" timestamp="1583918166424" />
+    <state width="1423" height="372" key="GridCell.Tab.1.center" timestamp="1583918166424">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="892" height="321" key="GridCell.Tab.1.center/0.0.1920.1030@0.0.1920.1030" timestamp="1583729881505" />
-    <state width="892" height="321" key="GridCell.Tab.1.left" timestamp="1583729881504">
+    <state width="1423" height="372" key="GridCell.Tab.1.center/0.0.1920.1030@0.0.1920.1030" timestamp="1583918166424" />
+    <state width="1423" height="372" key="GridCell.Tab.1.left" timestamp="1583918166424">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="892" height="321" key="GridCell.Tab.1.left/0.0.1920.1030@0.0.1920.1030" timestamp="1583729881504" />
-    <state width="892" height="321" key="GridCell.Tab.1.right" timestamp="1583729881505">
+    <state width="1423" height="372" key="GridCell.Tab.1.left/0.0.1920.1030@0.0.1920.1030" timestamp="1583918166424" />
+    <state width="1423" height="372" key="GridCell.Tab.1.right" timestamp="1583918166424">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="892" height="321" key="GridCell.Tab.1.right/0.0.1920.1030@0.0.1920.1030" timestamp="1583729881505" />
-    <state x="267" y="0" key="SettingsEditor" timestamp="1583728591234">
+    <state width="1423" height="372" key="GridCell.Tab.1.right/0.0.1920.1030@0.0.1920.1030" timestamp="1583918166424" />
+    <state x="267" y="0" key="SettingsEditor" timestamp="1583736101803">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state x="267" y="0" key="SettingsEditor/0.0.1920.1030@0.0.1920.1030" timestamp="1583728591234" />
-    <state x="863" y="204" width="1057" height="732" key="new project wizard" timestamp="1583658064355">
+    <state x="267" y="0" key="SettingsEditor/0.0.1920.1030@0.0.1920.1030" timestamp="1583736101803" />
+    <state x="863" y="204" width="1057" height="732" key="new project wizard" timestamp="1583731434084">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state x="863" y="204" width="1057" height="732" key="new project wizard/0.0.1920.1030@0.0.1920.1030" timestamp="1583658064355" />
+    <state x="863" y="204" width="1057" height="732" key="new project wizard/0.0.1920.1030@0.0.1920.1030" timestamp="1583731434084" />
     <state x="1120" y="258" key="run.anything.popup" timestamp="1583727638283">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
