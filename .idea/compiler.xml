@@ -16,6 +16,7 @@
         <module name="cloud-provider-payment8001" />
         <module name="cloud-consumerzk-order80" />
         <module name="cloud-consumer-order80" />
+        <module name="cloud-consumer-feign-hystrix-order-80" />
         <module name="cloud-providerconsul-payment8006" />
         <module name="cloud-consumer-feign-order80" />
         <module name="cloud-provider-hystrix-payment8001" />
@@ -23,6 +24,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="cloud-api-commons" target="8" />
+      <module name="cloud-consumer-feign-hystrix-order-80" target="8" />
       <module name="cloud-consumer-feign-order80" target="8" />
       <module name="cloud-consumer-order80" target="8" />
       <module name="cloud-consumerconsul-order80" target="8" />

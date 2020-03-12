@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52460051-2524-42b9-bf99-d89974690fe8" name="Default Changelist" comment="" />
+    <list default="true" id="52460051-2524-42b9-bf99-d89974690fe8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/deng/mscloud/PaymentHystrixMain8001.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/deng/mscloud/PaymentHystrixMain8001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/deng/mscloud/service/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/deng/mscloud/service/PaymentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/com/deng/mscloud/service/PaymentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/com/deng/mscloud/service/PaymentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,6 +156,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OrderConsulMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumerconsul-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.deng.mscloud.OrderConsulMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OrderFeignMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="cloud-consumer-feign-order80" />
       <extension name="coverage">
@@ -243,7 +259,7 @@
     <option name="viewStates">
       <list>
         <serviceView>
-          <option name="contentProportion" value="0.22143248" />
+          <option name="contentProportion" value="0.3056" />
           <treeState>
             <expand>
               <path>
@@ -282,6 +298,8 @@
       <workItem from="1583630458281" duration="16569000" />
       <workItem from="1583726581998" duration="7391000" />
       <workItem from="1583908573472" duration="3031000" />
+      <workItem from="1583996798346" duration="485000" />
+      <workItem from="1583998741422" duration="9133000" />
     </task>
     <servers />
   </component>
@@ -329,46 +347,46 @@
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
     <state x="997" y="211" key="FileChooserDialogImpl/0.0.1920.1030@0.0.1920.1030" timestamp="1583656282660" />
-    <state width="1423" height="372" key="GridCell.Tab.0.bottom" timestamp="1583938191365">
+    <state width="867" height="358" key="GridCell.Tab.0.bottom" timestamp="1584022992715">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="1423" height="372" key="GridCell.Tab.0.bottom/0.0.1920.1030@0.0.1920.1030" timestamp="1583938191365" />
-    <state width="1423" height="372" key="GridCell.Tab.0.center" timestamp="1583938191364">
+    <state width="867" height="358" key="GridCell.Tab.0.bottom/0.0.1920.1030@0.0.1920.1030" timestamp="1584022992715" />
+    <state width="867" height="358" key="GridCell.Tab.0.center" timestamp="1584022992715">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="1423" height="372" key="GridCell.Tab.0.center/0.0.1920.1030@0.0.1920.1030" timestamp="1583938191364" />
-    <state width="1423" height="372" key="GridCell.Tab.0.left" timestamp="1583938191364">
+    <state width="867" height="358" key="GridCell.Tab.0.center/0.0.1920.1030@0.0.1920.1030" timestamp="1584022992715" />
+    <state width="867" height="358" key="GridCell.Tab.0.left" timestamp="1584022992715">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="1423" height="372" key="GridCell.Tab.0.left/0.0.1920.1030@0.0.1920.1030" timestamp="1583938191364" />
-    <state width="1423" height="372" key="GridCell.Tab.0.right" timestamp="1583938191365">
+    <state width="867" height="358" key="GridCell.Tab.0.left/0.0.1920.1030@0.0.1920.1030" timestamp="1584022992715" />
+    <state width="867" height="358" key="GridCell.Tab.0.right" timestamp="1584022992715">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="1423" height="372" key="GridCell.Tab.0.right/0.0.1920.1030@0.0.1920.1030" timestamp="1583938191365" />
-    <state width="1423" height="372" key="GridCell.Tab.1.bottom" timestamp="1583938191367">
+    <state width="867" height="358" key="GridCell.Tab.0.right/0.0.1920.1030@0.0.1920.1030" timestamp="1584022992715" />
+    <state width="867" height="358" key="GridCell.Tab.1.bottom" timestamp="1584022992716">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="1423" height="372" key="GridCell.Tab.1.bottom/0.0.1920.1030@0.0.1920.1030" timestamp="1583938191367" />
-    <state width="1423" height="372" key="GridCell.Tab.1.center" timestamp="1583938191366">
+    <state width="867" height="358" key="GridCell.Tab.1.bottom/0.0.1920.1030@0.0.1920.1030" timestamp="1584022992716" />
+    <state width="867" height="358" key="GridCell.Tab.1.center" timestamp="1584022992715">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="1423" height="372" key="GridCell.Tab.1.center/0.0.1920.1030@0.0.1920.1030" timestamp="1583938191366" />
-    <state width="1423" height="372" key="GridCell.Tab.1.left" timestamp="1583938191366">
+    <state width="867" height="358" key="GridCell.Tab.1.center/0.0.1920.1030@0.0.1920.1030" timestamp="1584022992715" />
+    <state width="867" height="358" key="GridCell.Tab.1.left" timestamp="1584022992715">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="1423" height="372" key="GridCell.Tab.1.left/0.0.1920.1030@0.0.1920.1030" timestamp="1583938191366" />
-    <state width="1423" height="372" key="GridCell.Tab.1.right" timestamp="1583938191367">
+    <state width="867" height="358" key="GridCell.Tab.1.left/0.0.1920.1030@0.0.1920.1030" timestamp="1584022992715" />
+    <state width="867" height="358" key="GridCell.Tab.1.right" timestamp="1584022992716">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="1423" height="372" key="GridCell.Tab.1.right/0.0.1920.1030@0.0.1920.1030" timestamp="1583938191367" />
+    <state width="867" height="358" key="GridCell.Tab.1.right/0.0.1920.1030@0.0.1920.1030" timestamp="1584022992716" />
     <state x="267" y="0" key="SettingsEditor" timestamp="1583736101803">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
     <state x="267" y="0" key="SettingsEditor/0.0.1920.1030@0.0.1920.1030" timestamp="1583736101803" />
-    <state x="863" y="204" width="1057" height="732" key="new project wizard" timestamp="1583731434084">
+    <state x="863" y="240" width="1057" height="732" key="new project wizard" timestamp="1584001710442">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state x="863" y="204" width="1057" height="732" key="new project wizard/0.0.1920.1030@0.0.1920.1030" timestamp="1583731434084" />
+    <state x="863" y="240" width="1057" height="732" key="new project wizard/0.0.1920.1030@0.0.1920.1030" timestamp="1584001710442" />
     <state x="1120" y="258" key="run.anything.popup" timestamp="1583727638283">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
