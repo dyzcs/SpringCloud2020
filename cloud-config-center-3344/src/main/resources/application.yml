@@ -1,0 +1,22 @@
+server:
+  port: 8601
+
+spring:
+  application:
+    name: config-center
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/
+          #label: master
+          #search-paths:
+          #  - springcloud-config
+
+eureka:
+  instance:
+    instance-id: config-8601
+    prefer-ip-address: true
+  client:
+    service-url:
+      defaultZone: http://eureka7001.com:7001/eureka/

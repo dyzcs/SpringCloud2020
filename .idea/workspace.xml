@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52460051-2524-42b9-bf99-d89974690fe8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/deng/mscloud/filter/MyLogGateWayFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/deng/mscloud/filter/MyLogGateWayFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +70,13 @@
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="5c46fb33-0ed5-45b4-869d-ffeff87b13ea" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\IDEA_workspace\cloud2020\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -93,7 +104,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../raft-kv-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ACM" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -332,6 +343,7 @@
       <workItem from="1584174168793" duration="5717000" />
       <workItem from="1584239634086" duration="2514000" />
       <workItem from="1584242229912" duration="7729000" />
+      <workItem from="1584433949314" duration="2542000" />
     </task>
     <servers />
   </component>
@@ -375,10 +387,10 @@
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
     <state x="91" y="91" width="1738" height="848" key="DiffContextDialog/0.0.1920.1030@0.0.1920.1030" timestamp="1583652266496" />
-    <state x="997" y="211" key="FileChooserDialogImpl" timestamp="1584260638246">
+    <state x="997" y="211" key="FileChooserDialogImpl" timestamp="1584445359756">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state x="997" y="211" key="FileChooserDialogImpl/0.0.1920.1030@0.0.1920.1030" timestamp="1584260638246" />
+    <state x="997" y="211" key="FileChooserDialogImpl/0.0.1920.1030@0.0.1920.1030" timestamp="1584445359756" />
     <state width="906" height="389" key="GridCell.Tab.0.bottom" timestamp="1584260641935">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
@@ -435,10 +447,10 @@
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
     <state x="704" y="180" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1030@0.0.1920.1030" timestamp="1584193037498" />
-    <state x="863" y="240" width="1057" height="732" key="new project wizard" timestamp="1584244723840">
+    <state x="863" y="240" width="1057" height="732" key="new project wizard" timestamp="1584434991084">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state x="863" y="240" width="1057" height="732" key="new project wizard/0.0.1920.1030@0.0.1920.1030" timestamp="1584244723840" />
+    <state x="863" y="240" width="1057" height="732" key="new project wizard/0.0.1920.1030@0.0.1920.1030" timestamp="1584434991084" />
     <state x="1120" y="258" key="run.anything.popup" timestamp="1583727638283">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
